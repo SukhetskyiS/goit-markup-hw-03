@@ -181,9 +181,8 @@ a {
   /* outline: 2px solid tomato; */
 }
 
-.hero .container {
-  padding-bottom: 94px;
-  padding-top: 94px;
+/* .hero .container {
+   */
 }
 
 .section.bgc {
@@ -226,6 +225,8 @@ a {
 
 .hero {
   background-color: var(--button-bgc);
+  padding-bottom: 94px;
+  padding-top: 94px;
 }
 
 .hero-title {
